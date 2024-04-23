@@ -33,7 +33,6 @@ This repository contains a Java application developed for COMP228 course assignm
 - **Other necessary files:** Any additional files required for the proper functioning of the application.
 
 ## Author
-[Your Name]
+[Abdulkadir Musse]
 
-## License
-This project is licensed under the [MIT License](link-to-license).
+
